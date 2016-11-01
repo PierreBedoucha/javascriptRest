@@ -1,0 +1,23 @@
+{
+  "name": "javascriptrest",
+  "version": "1.0.0",
+  "description": "JavascriptRest workshp BergenNerdschool",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierreBedoucha/javascriptRest.git"
+  },
+  "keywords": [
+    "javascript",
+    "rest"
+  ],
+  "author": "pierrebedoucha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierreBedoucha/javascriptRest/issues"
+  },
+  "homepage": "https://github.com/PierreBedoucha/javascriptRest#readme"
+}
