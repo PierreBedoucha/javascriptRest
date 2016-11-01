@@ -8,3 +8,8 @@ app.listen(port, function () {
   console.log(`Example app listening on port ${port}`);
 });
 
+const morgan = require('morgan')
+app.use(morgan('dev'))
+
+const bodyParser = require('body-parser') 
+app.use(bodyParser.json())
